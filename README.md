@@ -1,4 +1,4 @@
-# Configurando as credenciais do OAuth Google para os nós de serviços do Google:
+# Configurando as credenciais do OAuth Google para os nós de serviços do Google no N8N:
 
 
 ## Para configurar uma credencial do Google para o N8N hospedado no Render.com, é necessário gerar um ID do cliente OAuth no Google Claud Console e configurar as variáveis de ambiente corretas no Render.com. O processo principal envolve a configuração da tela de consentimento e a criação da credencial no Google Cloud Console, seguida pela inclusão do Client ID, Client Secret a URL de direcionamento no N8N.
